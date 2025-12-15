@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+weaviate-client
+duckduckgo-search
+pypdf
+sentence-transformers
+numpy
